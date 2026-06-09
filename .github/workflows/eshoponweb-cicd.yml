@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 20b53e2c-8056-4b1e-9b06-99eea4859bb8
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: eshoponweb-webapp-asalas-gd9
 
 jobs:
   #Build, test and publish .net web project in repository
